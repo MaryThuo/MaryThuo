@@ -21,7 +21,7 @@
 | Tool    | Purpose      | Link   |
 |---------|-----------|----------|
 | Git   | Version control | https://git-scm.com/install/windows   |
-| Javascript     | interactive  |    |
+| Javascript     | interactive  | https://ryantech.co.ke/   |
 
 - [x] HTML
 - [x] CSS
