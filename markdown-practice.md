@@ -10,7 +10,7 @@
 
 - HTML
 - CSS
-  - JAVASCRIPT
+- JAVASCRIPT
 - PHP
 
 1. Git init
